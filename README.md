@@ -12,3 +12,4 @@ LeetCode
 
 * [**1 Two Sum**](./CPP/1_Two_Sum/solution.h)
 * [**7 Reverse Integer**](./CPP/7_Reverse_Integer/solution.h)
+* [**9 Palindrome Number**](CPP/9_Palindrome_Number/solution.h)
