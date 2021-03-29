@@ -8,6 +8,7 @@ LeetCode
 * [**my_vector**](./CPP/my_vector/my_vector.h)：vector 类的实现
 * [**my_list**](./CPP/my_list/my_list.h): list 类的实现
 * [**my_binary_search**](./CPP/my_binary_search/my_binary_search.h): 二分查找的实现
+* [**my_selection_sort**](./CPP/my_selection_sort/my_selection_sort.h)：选择排序的实现
 
 # LeetCode
 
