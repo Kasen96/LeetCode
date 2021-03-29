@@ -1,3 +1,6 @@
+#ifndef MY_BINARY_SEARCH_H
+#define MY_BINARY_SEARCH_H
+
 #include <iostream>
 
 template <typename T>
@@ -45,3 +48,5 @@ int MyBinarySearch2(T sortedArr[], int head, int tail, T value)
     }
     return -1;
 }
+
+#endif
