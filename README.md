@@ -13,6 +13,7 @@ LeetCode
 
 * [**My Bubble Sort**](CPP/Sort/my_bubble_sort/my_bubble_sort.h)：冒泡排序的实现
 * [**My Selection Sort**](CPP/Sort/my_selection_sort/my_selection_sort.h)：选择排序的实现
+* [**My Insertion Sort**](CPP/Sort/my_insertion_sort/my_insertion_sort.h)：插入排序的实现
 * [**My Quick Sort**](CPP/Sort/my_quick_sort/my_quick_sort.h)：快速排序的实现
 
 # LeetCode
