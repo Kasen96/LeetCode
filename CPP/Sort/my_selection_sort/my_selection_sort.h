@@ -1,24 +1,26 @@
+// https://sort.hust.cc/2.selectionsort
+
 #ifndef MY_SELECTION_SORT_H
 #define MY_SELECTION_SORT_H
 
-#include <vector>
+#include <array>
 #include <utility>
-using std::vector;
+using std::array;
 
-template <typename T>
-void MySelectionSort(vector<T> & data)
+template <typename T, size_t N>
+void MySelectionSort(array<T, N> &arr)
 {
-    for (size_t i = 0; i < data.size(); ++i)
+    for (size_t i = 0; i < N; ++i)
     {
         size_t min = i;
-        for (size_t j = i + 1; j < data.size(); ++j)
+        for (size_t j = i + 1; j < N; ++j)
         {
-            if (data.at(j) < data.at(min))
+            if (arr.at(j) < arr.at(min))
             {
                 min = j;
             }
         }
-        std::swap(data.at(i), data.at(min));
+        std::swap(arr.at(i), arr.at(min));
     }
 }
 
