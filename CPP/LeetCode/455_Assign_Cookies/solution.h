@@ -6,13 +6,13 @@ public:
     int findContentChildren(std::vector<int>& g, std::vector<int>& s) {
         std::sort(g.begin(), g.end());
         std::sort(s.begin(), s.end());
-        int child = 0, cookies = 0;
+        size_t child = 0, cookies = 0;
         while (child < g.size() && cookies < s.size()) {
             if (g.at(child) <= s.at(cookies)) {
                 ++child;
             }
             ++cookies;
         }
-        return child;
+        return static_cast<int>(child);
     }
 };
