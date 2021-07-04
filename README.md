@@ -26,4 +26,5 @@ LeetCode
 * [**13 Roman to Integer**](CPP/LeetCode/13_Roman_to_Integer/solution.h)
 * [**14 Longest Common Prefix**](CPP/LeetCode/14_Longest_Common_Prefix/solution.h)
 * [**20 Valid Parentheses**](CPP/LeetCode/20_Valid_Parentheses/solution.h)
+* [**135 Candy**](CPP/LeetCode/135_Candy/solution.h)
 * [**455 Assign Cookies**](CPP/LeetCode/455_Assign_Cookies/solution.h)
