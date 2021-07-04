@@ -1,12 +1,10 @@
 #include <string>
 #include <stack>
-using std::string;
-using std::stack;
 
 class Solution {
 public:
-    bool isValid(string s) {
-        stack<char> stk;
+    bool isValid(std::string s) {
+        std::stack<char> stk;
         for (const auto c : s) 
         {
             if (!stk.empty() && (

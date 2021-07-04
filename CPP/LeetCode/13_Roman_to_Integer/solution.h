@@ -1,10 +1,9 @@
 #include <string>
-using std::string;
 
 class Solution
 {
 public:
-    int romanToInt(string s)
+    int romanToInt(std::string s)
     {
         int result = 0;
         for (auto iter = s.crbegin(); iter != s.crend(); ++iter)

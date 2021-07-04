@@ -5,19 +5,16 @@
 #include <vector>
 #include <unordered_map>
 
-using std::vector;
-using std::unordered_map;
-
 class Solution {
     public:
         // Traverse the array one by one
         // put the "target - num[i]"" into the map as key
         // so, when we checking the next num[i], if we found it is exisited in the map.
         // which means we found the second one.
-        vector<int> twoSum(vector<int> & nums, int target) 
+        std::vector<int> twoSum(std::vector<int> & nums, int target) 
         {
-            unordered_map<int, int> m;
-            vector<int> result;
+            std::unordered_map<int, int> m;
+            std::vector<int> result;
 
             for(int i = 0; i < nums.size(); ++i)
             {
