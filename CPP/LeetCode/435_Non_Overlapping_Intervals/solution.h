@@ -15,14 +15,14 @@ public:
         
         size_t size = intervals.size();
         int removed = 0;
-        int prev = intervals.at(0).at(1);
+        int rhs = intervals.at(0).at(1);
 
         for (size_t i = 1; i < size; ++i) {
-            if (intervals.at(i).at(0) < prev) {
+            if (intervals.at(i).at(0) < rhs) {
                 ++removed;
             }
             else {
-                prev = intervals.at(i).at(1);
+                rhs = intervals.at(i).at(1);
             }
         }
 
