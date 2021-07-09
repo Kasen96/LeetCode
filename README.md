@@ -30,3 +30,4 @@ LeetCode
 * [**435 Non Overlapping Intervals**](CPP/LeetCode/435_Non_Overlapping_Intervals/solution.h)
 * [**455 Assign Cookies**](CPP/LeetCode/455_Assign_Cookies/solution.h)
 * [**605 Can Place Flowers**](CPP/LeetCode/605_Can_Place_Flowers/solution.h)
+* [**763 Partition Labels**](CPP/LeetCode/763_Partition_Labels/solution.h)
