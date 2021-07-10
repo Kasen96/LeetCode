@@ -32,3 +32,7 @@ LeetCode
 * [**455 Assign Cookies**](CPP/LeetCode/455_Assign_Cookies/solution.h)
 * [**605 Can Place Flowers**](CPP/LeetCode/605_Can_Place_Flowers/solution.h)
 * [**763 Partition Labels**](CPP/LeetCode/763_Partition_Labels/solution.h)
+
+# Others
+
+* [Awesome Leetcode Interviews Collections](https://github.com/imkasen/Awesome-Leetcode-Interviews-Collections)

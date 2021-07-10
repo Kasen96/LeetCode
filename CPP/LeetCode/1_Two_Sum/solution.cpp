@@ -18,5 +18,5 @@ int main(int argc, char* argv[])
     vector<int> v3{3, 3};
     cout << std::boolalpha << (s.twoSum(v3, 6) == vector<int>{0, 1}) << std::noboolalpha << endl;
 
-    return 0;
+    return EXIT_SUCCESS;
 }

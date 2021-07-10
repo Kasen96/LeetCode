@@ -15,6 +15,6 @@ int main(int argc, char* argv[])
     cout << (s.isValid("{[]}")) << endl;
     cout << std::noboolalpha;
 
-    return 0;
+    return EXIT_SUCCESS;
 }
 

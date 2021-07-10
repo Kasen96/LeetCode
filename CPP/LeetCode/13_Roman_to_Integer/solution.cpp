@@ -16,5 +16,5 @@ int main(int argc, char* argv[])
     cout << (s.romanToInt("MCMXCIV") == 1994) << endl;
     cout << std::noboolalpha;
 
-    return 0;
+    return EXIT_SUCCESS;
 }
