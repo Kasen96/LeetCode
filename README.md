@@ -26,6 +26,7 @@ LeetCode
 * [**13 Roman to Integer**](CPP/LeetCode/13_Roman_to_Integer/solution.h)
 * [**14 Longest Common Prefix**](CPP/LeetCode/14_Longest_Common_Prefix/solution.h)
 * [**20 Valid Parentheses**](CPP/LeetCode/20_Valid_Parentheses/solution.h)
+* [**76 Minimun Window Substring**](CPP/LeetCode/76_Minimum_Window_Substring/solution.h)
 * [**88 Merge Sorted Array**](CPP/LeetCode/88_Merge_Sorted_Array/solution.h)
 * [**122 Best Time to Buy and Sell Stock II**](CPP/LeetCode/122_Best_Time_To_Buy_And_Sell_Stock_II/solution.h)
 * [**135 Candy**](CPP/LeetCode/135_Candy/solution.h)
