@@ -38,6 +38,7 @@ LeetCode
 * [**605 Can Place Flowers**](CPP/LeetCode/605_Can_Place_Flowers/solution.h)
 * [**633 Sum of Square Numbers**](CPP/LeetCode/633_Sum_of_Square_Numbers/solution.h)
 * [**665 Non Decreasing Array**](CPP/LeetCode/665_Non_Decreasing_Array/solution.h)
+* [**680 Valid Palindrome II**](CPP/LeetCode/680_Valid_Palindrome_II/solution.h)
 * [**763 Partition Labels**](CPP/LeetCode/763_Partition_Labels/solution.h)
 
 # Others
