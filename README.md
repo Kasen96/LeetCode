@@ -35,6 +35,7 @@ LeetCode
 * [**406 Queue Reconstruction By Height**](CPP/LeetCode/406_Queue_Reconstruction_By_Height/solution.h)
 * [**435 Non Overlapping Intervals**](CPP/LeetCode/435_Non_Overlapping_Intervals/solution.h)
 * [**455 Assign Cookies**](CPP/LeetCode/455_Assign_Cookies/solution.h)
+* [**524 Longest Word in Directory Through Deleting**](CPP/LeetCode/524_Longest_Word_in_Dictionary_Through_Deleting/solution.h)
 * [**605 Can Place Flowers**](CPP/LeetCode/605_Can_Place_Flowers/solution.h)
 * [**633 Sum of Square Numbers**](CPP/LeetCode/633_Sum_of_Square_Numbers/solution.h)
 * [**665 Non Decreasing Array**](CPP/LeetCode/665_Non_Decreasing_Array/solution.h)
