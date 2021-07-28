@@ -35,6 +35,7 @@ LeetCode
 * [**135 Candy**](CPP/LeetCode/135_Candy/solution.h)
 * [**142 Linked List Circle II**](CPP/LeetCode/142_Linked_List_Cycle_II/solution.h)
 * [**167 Two Sum II**](CPP/LeetCode/167_Two_Sum_II/solution.h)
+* [**215 Kth Largest Element in an Array**](CPP/LeetCode/215_Kth_Largest_Element_in_an_Array/solution.h)
 * [**406 Queue Reconstruction By Height**](CPP/LeetCode/406_Queue_Reconstruction_By_Height/solution.h)
 * [**435 Non Overlapping Intervals**](CPP/LeetCode/435_Non_Overlapping_Intervals/solution.h)
 * [**455 Assign Cookies**](CPP/LeetCode/455_Assign_Cookies/solution.h)
