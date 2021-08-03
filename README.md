@@ -27,6 +27,7 @@ LeetCode
 * [**14 Longest Common Prefix**](CPP/LeetCode/14_Longest_Common_Prefix/solution.h)
 * [**20 Valid Parentheses**](CPP/LeetCode/20_Valid_Parentheses/solution.h)
 * [**34 Find First and Last Position of Element in Sorted Array**](CPP/LeetCode/34_Find_First_and_Last_Position_of_Element_in_Sorted_Array/solution.h)
+* [**46 Permutations**](CPP/LeetCode/46_Permutations/solution.h)
 * [**69 Sqrtx**](CPP/LeetCode/69_Sqrtx/solution.h)
 * [**76 Minimun Window Substring**](CPP/LeetCode/76_Minimum_Window_Substring/solution.h)
 * [**81 Search in Rotated Sorted Array II**](CPP/LeetCode/81_Search_in_Rotated_Sorted_Array_II/solution.h)
