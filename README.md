@@ -30,6 +30,7 @@ LeetCode
 * [**46 Permutations**](CPP/LeetCode/46_Permutations/solution.h)
 * [**69 Sqrtx**](CPP/LeetCode/69_Sqrtx/solution.h)
 * [**76 Minimun Window Substring**](CPP/LeetCode/76_Minimum_Window_Substring/solution.h)
+* [**77 Combinations**](CPP/LeetCode/77_Combinations/solution.h)
 * [**81 Search in Rotated Sorted Array II**](CPP/LeetCode/81_Search_in_Rotated_Sorted_Array_II/solution.h)
 * [**88 Merge Sorted Array**](CPP/LeetCode/88_Merge_Sorted_Array/solution.h)
 * [**122 Best Time to Buy and Sell Stock II**](CPP/LeetCode/122_Best_Time_To_Buy_And_Sell_Stock_II/solution.h)
