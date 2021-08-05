@@ -42,6 +42,7 @@ LeetCode
 * [**215 Kth Largest Element in an Array**](CPP/LeetCode/215_Kth_Largest_Element_in_an_Array/solution.h)
 * [**347 Top K Frequent Elements**](CPP/LeetCode/347_Top_K_Frequent_Elements/solution.h)
 * [**406 Queue Reconstruction By Height**](CPP/LeetCode/406_Queue_Reconstruction_By_Height/solution.h)
+* [**413 Arithmetic Slices**](CPP/LeetCode/413_Arithmetic_Slices/solution.h)
 * [**435 Non Overlapping Intervals**](CPP/LeetCode/435_Non_Overlapping_Intervals/solution.h)
 * [**455 Assign Cookies**](CPP/LeetCode/455_Assign_Cookies/solution.h)
 * [**524 Longest Word in Directory Through Deleting**](CPP/LeetCode/524_Longest_Word_in_Dictionary_Through_Deleting/solution.h)
