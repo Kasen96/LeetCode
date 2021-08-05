@@ -38,6 +38,7 @@ LeetCode
 * [**135 Candy**](CPP/LeetCode/135_Candy/solution.h)
 * [**142 Linked List Circle II**](CPP/LeetCode/142_Linked_List_Cycle_II/solution.h)
 * [**167 Two Sum II**](CPP/LeetCode/167_Two_Sum_II/solution.h)
+* [**198 House Robber**](CPP/LeetCode/198_House_Robber/solution.h)
 * [**215 Kth Largest Element in an Array**](CPP/LeetCode/215_Kth_Largest_Element_in_an_Array/solution.h)
 * [**347 Top K Frequent Elements**](CPP/LeetCode/347_Top_K_Frequent_Elements/solution.h)
 * [**406 Queue Reconstruction By Height**](CPP/LeetCode/406_Queue_Reconstruction_By_Height/solution.h)
