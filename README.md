@@ -29,6 +29,7 @@ LeetCode
 * [**34 Find First and Last Position of Element in Sorted Array**](CPP/LeetCode/34_Find_First_and_Last_Position_of_Element_in_Sorted_Array/solution.h)
 * [**46 Permutations**](CPP/LeetCode/46_Permutations/solution.h)
 * [**69 Sqrtx**](CPP/LeetCode/69_Sqrtx/solution.h)
+* [**70 Climbing Stairs**](CPP/LeetCode/70_Climbing_Stairs/solution.h)
 * [**76 Minimun Window Substring**](CPP/LeetCode/76_Minimum_Window_Substring/solution.h)
 * [**77 Combinations**](CPP/LeetCode/77_Combinations/solution.h)
 * [**81 Search in Rotated Sorted Array II**](CPP/LeetCode/81_Search_in_Rotated_Sorted_Array_II/solution.h)
