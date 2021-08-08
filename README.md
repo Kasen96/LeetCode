@@ -28,6 +28,7 @@ LeetCode
 * [**20 Valid Parentheses**](CPP/LeetCode/20_Valid_Parentheses/solution.h)
 * [**34 Find First and Last Position of Element in Sorted Array**](CPP/LeetCode/34_Find_First_and_Last_Position_of_Element_in_Sorted_Array/solution.h)
 * [**46 Permutations**](CPP/LeetCode/46_Permutations/solution.h)
+* [**64 Minimum Path Sum**](CPP/LeetCode/64_Minimum_Path_Sum/solution.h)
 * [**69 Sqrtx**](CPP/LeetCode/69_Sqrtx/solution.h)
 * [**70 Climbing Stairs**](CPP/LeetCode/70_Climbing_Stairs/solution.h)
 * [**76 Minimun Window Substring**](CPP/LeetCode/76_Minimum_Window_Substring/solution.h)
