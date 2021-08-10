@@ -35,6 +35,7 @@ LeetCode
 * [**77 Combinations**](CPP/LeetCode/77_Combinations/solution.h)
 * [**81 Search in Rotated Sorted Array II**](CPP/LeetCode/81_Search_in_Rotated_Sorted_Array_II/solution.h)
 * [**88 Merge Sorted Array**](CPP/LeetCode/88_Merge_Sorted_Array/solution.h)
+* [**91 Decode Ways**](CPP/LeetCode/91_Decode_Ways/solution.h)
 * [**122 Best Time to Buy and Sell Stock II**](CPP/LeetCode/122_Best_Time_To_Buy_And_Sell_Stock_II/solution.h)
 * [**135 Candy**](CPP/LeetCode/135_Candy/solution.h)
 * [**142 Linked List Circle II**](CPP/LeetCode/142_Linked_List_Cycle_II/solution.h)
