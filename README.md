@@ -58,6 +58,7 @@ LeetCode
 * [**665 Non Decreasing Array**](CPP/LeetCode/665_Non_Decreasing_Array/solution.h)
 * [**680 Valid Palindrome II**](CPP/LeetCode/680_Valid_Palindrome_II/solution.h)
 * [**763 Partition Labels**](CPP/LeetCode/763_Partition_Labels/solution.h)
+* [**1143 Longest Common Subsequence**](CPP/LeetCode/1143_Longest_Common_Subsequence/solution.h)
 
 # Others
 
