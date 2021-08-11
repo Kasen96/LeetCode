@@ -45,6 +45,7 @@ LeetCode
 * [**215 Kth Largest Element in an Array**](CPP/LeetCode/215_Kth_Largest_Element_in_an_Array/solution.h)
 * [**221 Maximal Square**](CPP/LeetCode/221_Maximal_Square/solution.h)
 * [**279 Perfect Squares**](CPP/LeetCode/279_Perfect_Squares/solution.h)
+* [**300 Longest Increasing Subsequence**](CPP/LeetCode/300_Longest_Increasing_Subsequence/solution.h)
 * [**347 Top K Frequent Elements**](CPP/LeetCode/347_Top_K_Frequent_Elements/solution.h)
 * [**406 Queue Reconstruction By Height**](CPP/LeetCode/406_Queue_Reconstruction_By_Height/solution.h)
 * [**413 Arithmetic Slices**](CPP/LeetCode/413_Arithmetic_Slices/solution.h)
